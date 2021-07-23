@@ -1,4 +1,4 @@
-# Golang Certificate Generator
+# e-Certificate Template
 
 - A custom certificate generator made with the [gopdf package](https://pkg.go.dev/github.com/jung-kurt/gofpdf@v1.16.2)
 - The `invoice` branch contains an invoice generator, made to grasp the basics of [gopdf](https://github.com/jung-kurt/gofpdf)
